@@ -86,3 +86,5 @@ Desktop.ini
 
 # ==========================
 database.properties
+/src/main/resources/config.properties
+
