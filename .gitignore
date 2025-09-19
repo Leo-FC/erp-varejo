@@ -85,6 +85,6 @@ Desktop.ini
 .env.*
 
 # ==========================
-# Persistence
-# ==========================
-/src/main/resources/META-INF/persistence.xml
+database.properties
+/src/main/resources/config.properties
+
